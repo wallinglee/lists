@@ -1,4 +1,4 @@
-# Shopping Lists - JSON Server deployment from render.com
+# Shopping Lists - JSON Server
 
 
 
