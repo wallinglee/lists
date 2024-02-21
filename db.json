@@ -1,10 +1,11 @@
 {
   "lists": [{
     "id": 1,
-    "store": "Costco (Render.com)",
+    "store": "Costco",
     "completed": false,
     "expanded": false,
-    "items": [{
+    "items": [
+    {
       "id": 1,
       "text": "Ziploc bags",
       "completed": false
@@ -102,7 +103,8 @@
     "store": "Trader Joes",
     "completed": false,
     "expanded": false,
-    "items": [{
+    "items": [
+    {
       "id": 1,
       "text": "Salads",
       "completed": false
@@ -200,7 +202,8 @@
     "store": "Stop&Shop",
     "completed": false,
     "expanded": false,
-    "items": [{
+    "items": [
+    {
       "id": 1,
       "text": "Lemons (4)",
       "completed": false
