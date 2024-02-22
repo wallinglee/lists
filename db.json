@@ -13,7 +13,7 @@
         },
         {
           "id": 2,
-          "text": "Lysol (3)",
+          "text": "Lysol (3pk)",
           "completed": false
         },
         {
@@ -33,7 +33,7 @@
         },
         {
           "id": 6,
-          "text": "Bottled Water (40)",
+          "text": "Bottled Water (40pk)",
           "completed": false
         },
         {
@@ -68,7 +68,7 @@
         },
         {
           "id": 13,
-          "text": "Oat Milk (6)",
+          "text": "Oat Milk (6pk)",
           "completed": false
         },
         {
@@ -166,7 +166,7 @@
         },
         {
           "id": 8,
-          "text": "Eggs (6)",
+          "text": "Eggs (6pk)",
           "completed": false
         },
         {
@@ -299,7 +299,7 @@
         },
         {
           "id": 10,
-          "text": "LaCroix seltzer (12)",
+          "text": "LaCroix seltzer (12pk)",
           "completed": false
         },
         {
@@ -329,7 +329,7 @@
         },
         {
           "id": 16,
-          "text": "Uncrustables (10)",
+          "text": "Uncrustables (10pk)",
           "completed": false
         },
         {
@@ -351,7 +351,7 @@
       "items": [
         {
           "id": 1,
-          "text": "RID-X Septic (3-Dose)",
+          "text": "RID-X Septic (3pk)",
           "completed": false
         }
       ],
