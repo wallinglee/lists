@@ -358,191 +358,213 @@
     }
   ],
   "events": [{
-    "title": "JPMorgan interview - 2PM",
-    "description": "DSA problem solving ",
-    "label": "red",
-    "day": 1709269200000,
-    "isOriginal": false,
-    "originalEvent": 1708967955215,
-    "id": 1708967955215
-  }, {
-    "title": "Lee's birthday",
-    "description": "Fifty fucking six",
-    "label": "indigo",
-    "day": 1719288000000,
-    "id": 1708972506519
-  }, {
-    "title": "Michelle's birthday",
-    "description": "Forty fucking nine",
-    "label": "indigo",
-    "day": 1728014400000,
-    "id": 1708972543230
-  }, {
-    "title": "Michelle's surgery",
-    "description": "half terminator",
-    "label": "red",
-    "day": 1710907200000,
-    "originalEvent": 1709053065366,
-    "id": 1709053065366
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718251200000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": true,
-    "originalEvent": 1709095789766,
-    "id": 1709095789766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718337600000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709182189766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718424000000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709268589766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718510400000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709354989766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718596800000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709441389766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718683200000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709527789766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718769600000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709614189766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718856000000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709700589766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1718942400000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709786989766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1719028800000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709873389766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1719115200000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1709959789766
-  }, {
-    "title": "Cannes 2024 - 6/13-24",
-    "description": "Cannes Lions International Festival of Creativity 2024",
-    "label": "green",
-    "day": 1719201600000,
-    "multiday": true,
-    "eventDays": 12,
-    "isOriginal": false,
-    "originalEvent": 1709095789766,
-    "id": 1710046189766
-  }, {
-    "title": "Michelle - Philly",
-    "description": "work trip",
-    "label": "green",
-    "day": 1709528400000,
-    "multiday": true,
-    "eventDays": 4,
-    "isOriginal": true,
-    "originalEvent": 1709134189024,
-    "id": 1709134189024
-  }, {
-    "title": "Michelle - Philly",
-    "description": "work trip",
-    "label": "green",
-    "day": 1709614800000,
-    "multiday": true,
-    "eventDays": 4,
-    "isOriginal": false,
-    "originalEvent": 1709134189024,
-    "id": 1709220589024
-  }, {
-    "title": "Michelle - Philly",
-    "description": "work trip",
-    "label": "green",
-    "day": 1709701200000,
-    "multiday": true,
-    "eventDays": 4,
-    "isOriginal": false,
-    "originalEvent": 1709134189024,
-    "id": 1709306989024
-  }, {
-    "title": "Michelle - Philly",
-    "description": "work trip",
-    "label": "green",
-    "day": 1709787600000,
-    "multiday": true,
-    "eventDays": 4,
-    "isOriginal": false,
-    "originalEvent": 1709134189024,
-    "id": 1709393389024
-  }]
+      "title": "JPMorgan interview - 2PM",
+      "description": "DSA problem solving ",
+      "label": "green",
+      "day": 1709269200000,
+      "isOriginal": false,
+      "originalEvent": 1708967955215,
+      "id": 1708967955215
+    },
+    {
+      "title": "Lee's birthday",
+      "description": "Fifty fucking six",
+      "label": "red",
+      "day": 1719288000000,
+      "id": 1708972506519,
+      "originalEvent": 1708972506519
+    },
+    {
+      "title": "Michelle's birthday",
+      "description": "Forty fucking nine",
+      "label": "orange",
+      "day": 1728014400000,
+      "id": 1708972543230,
+      "originalEvent": 1708972543230
+    },
+    {
+      "title": "Michelle's surgery",
+      "description": "half terminator",
+      "label": "orange",
+      "day": 1710907200000,
+      "originalEvent": 1709053065366,
+      "id": 1709053065366
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718251200000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": true,
+      "originalEvent": 1709095789766,
+      "id": 1709095789766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718337600000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709182189766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718424000000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709268589766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718510400000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709354989766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718596800000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709441389766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718683200000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709527789766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718769600000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709614189766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718856000000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709700589766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1718942400000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709786989766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1719028800000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709873389766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1719115200000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1709959789766
+    },
+    {
+      "title": "Cannes (2024) - 6/13-24",
+      "description": "Cannes Lions International Festival of Creativity 2024",
+      "label": "green",
+      "day": 1719201600000,
+      "multiday": true,
+      "eventDays": 12,
+      "isOriginal": false,
+      "originalEvent": 1709095789766,
+      "id": 1710046189766
+    },
+    {
+      "title": "Michelle - Philly",
+      "description": "work trip",
+      "label": "orange",
+      "day": 1709528400000,
+      "multiday": true,
+      "eventDays": 4,
+      "isOriginal": true,
+      "originalEvent": 1709134189024,
+      "id": 1709134189024
+    },
+    {
+      "title": "Michelle - Philly",
+      "description": "work trip",
+      "label": "orange",
+      "day": 1709614800000,
+      "multiday": true,
+      "eventDays": 4,
+      "isOriginal": false,
+      "originalEvent": 1709134189024,
+      "id": 1709220589024
+    },
+    {
+      "title": "Michelle - Philly",
+      "description": "work trip",
+      "label": "orange",
+      "day": 1709701200000,
+      "multiday": true,
+      "eventDays": 4,
+      "isOriginal": false,
+      "originalEvent": 1709134189024,
+      "id": 1709306989024
+    },
+    {
+      "title": "Michelle - Philly",
+      "description": "work trip",
+      "label": "orange",
+      "day": 1709787600000,
+      "multiday": true,
+      "eventDays": 4,
+      "isOriginal": false,
+      "originalEvent": 1709134189024,
+      "id": 1709393389024
+    }
+  ]
 }
