@@ -315,47 +315,37 @@
         },
         {
           "id": 13,
-          "text": "FAGE 0% Yogurt",
-          "completed": false
-        },
-        {
-          "id": 14,
-          "text": "Frozen Burritos",
-          "completed": false
-        },
-        {
-          "id": 15,
-          "text": "Rao's Penne Arrabbiata",
-          "completed": false
-        },
-        {
-          "id": 16,
-          "text": "Uncrustables (10pk)",
-          "completed": false
-        },
-        {
-          "id": 17,
-          "text": "Fat free sour cream",
-          "completed": false
-        },
-        {
-          "id": 18,
-          "text": "Cheddar shreds",
-          "completed": false
-        },
-        {
-          "id": 19,
           "text": "DrSquatch soap",
           "completed": false
         },
         {
-          "id": 20,
-          "text": "test item #20",
+          "id": 14,
+          "text": "FAGE 0% Yogurt",
           "completed": false
         },
         {
-          "id": 21,
-          "text": "test item #21",
+          "id": 15,
+          "text": "Frozen Burritos",
+          "completed": false
+        },
+        {
+          "id": 16,
+          "text": "Rao's Penne Arrabbiata",
+          "completed": false
+        },
+        {
+          "id": 17,
+          "text": "Uncrustables (10pk)",
+          "completed": false
+        },
+        {
+          "id": 18,
+          "text": "Fat free sour cream",
+          "completed": false
+        },
+        {
+          "id": 19,
+          "text": "Cheddar shreds",
           "completed": false
         }
       ]
