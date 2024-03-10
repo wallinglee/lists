@@ -342,6 +342,11 @@
           "id": 18,
           "text": "Cheddar shreds",
           "completed": false
+        },
+        {
+          "id": 19,
+          "text": "DrSquatch soap",
+          "completed": false
         }
       ]
     },
