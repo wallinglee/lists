@@ -347,6 +347,11 @@
           "id": 19,
           "text": "DrSquatch soap",
           "completed": false
+        },
+        {
+          "id": 20,
+          "text": "test item #20",
+          "completed": false
         }
       ]
     },
