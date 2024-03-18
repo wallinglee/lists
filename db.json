@@ -1006,5 +1006,20 @@
       "id": 1710174042576
     }
   ],
-  "tasks": []
+  "tasks": [{
+    "id": "1f99b7cc2a8",
+    "name": "Go to Harbor Freight",
+    "isEditing": false,
+    "isCompleted": false
+  }, {
+    "id": "f99b7cc2a89",
+    "name": "Go to West Elm outlet",
+    "isEditing": false,
+    "isCompleted": false
+  }, {
+    "id": "99b7cc2a895",
+    "name": "Print Walmart return label",
+    "isEditing": false,
+    "isCompleted": false
+  }]
 }
