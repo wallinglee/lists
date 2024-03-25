@@ -1,5 +1,6 @@
 {
-  "lists": [{
+  "lists": [
+    {
       "id": 1,
       "store": "Costco",
       "completed": false,
@@ -132,126 +133,106 @@
       "completed": false,
       "expanded": false,
       "items": [{
-          "id": 1,
-          "text": "Salads",
-          "completed": false
-        },
-        {
-          "id": 2,
-          "text": "Green onions",
-          "completed": false
-        },
-        {
-          "id": 3,
-          "text": "Bananas (3)",
-          "completed": false
-        },
-        {
-          "id": 4,
-          "text": "Lemons (4)",
-          "completed": false
-        },
-        {
-          "id": 5,
-          "text": "Rosemary Ham",
-          "completed": false
-        },
-        {
-          "id": 6,
-          "text": "Smoked Turkey",
-          "completed": false
-        },
-        {
-          "id": 7,
-          "text": "Cheddar slices",
-          "completed": false
-        },
-        {
-          "id": 8,
-          "text": "Sour Cream",
-          "completed": false
-        },
-        {
-          "id": 9,
-          "text": "Eggs (6pk)",
-          "completed": false
-        },
-        {
-          "id": 10,
-          "text": "Toaster Pastries",
-          "completed": false
-        },
-        {
-          "id": 11,
-          "text": "Blueberry Cereal Bars",
-          "completed": false
-        },
-        {
-          "id": 12,
-          "text": "Oat milk",
-          "completed": false
-        },
-        {
-          "id": 13,
-          "text": "Bolognese sauce",
-          "completed": false
-        },
-        {
-          "id": 14,
-          "text": "Capellini",
-          "completed": false
-        },
-        {
-          "id": 15,
-          "text": "Red Wine Vinegar",
-          "completed": false
-        },
-        {
-          "id": 16,
-          "text": "80/20 Ground Beef",
-          "completed": false
-        },
-        {
-          "id": 17,
-          "text": "Ribeye Steak",
-          "completed": false
-        },
-        {
-          "id": 18,
-          "text": "Spanish Style Rice",
-          "completed": false
-        },
-        {
-          "id": 18,
-          "text": "Fiery chicken",
-          "completed": false
-        },
-        {
-          "id": 20,
-          "text": "Potstickers",
-          "completed": false
-        },
-        {
-          "id": 21,
-          "text": "Salsa Autentica",
-          "completed": false
-        },
-        {
-          "id": 22,
-          "text": "Belgian waffles",
-          "completed": false
-        },
-        {
-          "id": 23,
-          "text": "Sourdough Bread",
-          "completed": false
-        },
-        {
-          "id": 24,
-          "text": "Chocolate ice cream",
-          "completed": false
-        }
-      ]
+        "id": 1,
+        "text": "Salads",
+        "completed": false
+      }, {
+        "id": 2,
+        "text": "Green onions",
+        "completed": false
+      }, {
+        "id": 3,
+        "text": "Bananas (3)",
+        "completed": false
+      }, {
+        "id": 4,
+        "text": "Lemons (4)",
+        "completed": false
+      }, {
+        "id": 5,
+        "text": "Rosemary Ham",
+        "completed": false
+      }, {
+        "id": 6,
+        "text": "Smoked Turkey",
+        "completed": false
+      }, {
+        "id": 7,
+        "text": "Cheddar slices",
+        "completed": false
+      }, {
+        "id": 8,
+        "text": "Yogurt",
+        "completed": false
+      }, {
+        "id": 9,
+        "text": "Sour Cream",
+        "completed": false
+      }, {
+        "id": 10,
+        "text": "Eggs (6pk)",
+        "completed": false
+      }, {
+        "id": 11,
+        "text": "Toaster Pastries",
+        "completed": false
+      }, {
+        "id": 12,
+        "text": "Blueberry Cereal Bars",
+        "completed": false
+      }, {
+        "id": 13,
+        "text": "Oat milk",
+        "completed": false
+      }, {
+        "id": 14,
+        "text": "Bolognese sauce",
+        "completed": false
+      }, {
+        "id": 15,
+        "text": "Capellini",
+        "completed": false
+      }, {
+        "id": 16,
+        "text": "Red Wine Vinegar",
+        "completed": false
+      }, {
+        "id": 17,
+        "text": "80/20 Ground Beef",
+        "completed": false
+      }, {
+        "id": 18,
+        "text": "Ribeye Steak",
+        "completed": false
+      }, {
+        "id": 19,
+        "text": "Spanish Style Rice",
+        "completed": false
+      }, {
+        "id": 20,
+        "text": "Fiery chicken",
+        "completed": false
+      }, {
+        "id": 21,
+        "text": "Potstickers",
+        "completed": false
+      }, {
+        "id": 22,
+        "text": "Salsa Autentica",
+        "completed": false
+      }, {
+        "id": 23,
+        "text": "Belgian waffles",
+        "completed": false
+      }, {
+        "id": 24,
+        "text": "Sourdough Bread",
+        "completed": false
+      }, {
+        "id": 25,
+        "text": "Chocolate ice cream",
+        "completed": false
+      }]
     },
     {
       "id": 3,
@@ -378,7 +359,8 @@
       }]
     }
   ],
-  "events": [{
+  "events": [
+    {
       "title": "JPMorgan interview - 2PM",
       "description": "DSA problem solving ",
       "label": "green",
@@ -674,17 +656,6 @@
       "isOriginal": false,
       "originalEvent": null,
       "id": 1710173384476
-    },
-    {
-      "title": "Easter Sunday",
-      "description": "",
-      "label": "gray",
-      "day": 1711252800000,
-      "multiday": false,
-      "eventDays": 2,
-      "isOriginal": false,
-      "originalEvent": null,
-      "id": 1710173401252
     },
     {
       "title": "Tax Day",
@@ -1004,20 +975,43 @@
       "isOriginal": false,
       "originalEvent": null,
       "id": 1710174042576
+    },
+    {
+      "title": "Dr Unis - 9:30am",
+      "description": "",
+      "label": "orange",
+      "day": 1712030400000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1711031433024
+    },
+    {
+      "title": "Easter Sunday",
+      "description": "",
+      "label": "gray",
+      "day": 1711857600000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1711378508678
     }
   ],
-  "tasks": [{
-    "id": "1f99b7cc2a8",
+  "tasks": [
+    {
+    "id": "1",
     "name": "Go to Harbor Freight",
     "isEditing": false,
     "isCompleted": false
   }, {
-    "id": "f99b7cc2a89",
+    "id": "2",
     "name": "Go to West Elm outlet",
     "isEditing": false,
     "isCompleted": false
   }, {
-    "id": "99b7cc2a895",
+    "id": "3",
     "name": "Print Walmart return label",
     "isEditing": false,
     "isCompleted": false
