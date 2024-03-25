@@ -1,6 +1,5 @@
 {
-  "lists": [
-    {
+  "lists": [{
       "id": 1,
       "store": "Costco",
       "completed": false,
@@ -359,8 +358,7 @@
       }]
     }
   ],
-  "events": [
-    {
+  "events": [{
       "title": "JPMorgan interview - 2PM",
       "description": "DSA problem solving ",
       "label": "green",
@@ -999,8 +997,7 @@
       "id": 1711378508678
     }
   ],
-  "tasks": [
-    {
+  "tasks": [{
     "id": "1",
     "name": "Go to Harbor Freight",
     "isEditing": false,
