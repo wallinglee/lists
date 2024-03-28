@@ -123,8 +123,7 @@
           "id": 24,
           "text": "Liquid I.V.",
           "completed": false
-        }
-      ]
+        }]
     },
     {
       "id": 2,
@@ -132,106 +131,140 @@
       "completed": false,
       "expanded": false,
       "items": [{
-        "id": 1,
-        "text": "Salads",
-        "completed": false
-      }, {
-        "id": 2,
-        "text": "Green onions",
-        "completed": false
-      }, {
-        "id": 3,
-        "text": "Bananas (3)",
-        "completed": false
-      }, {
-        "id": 4,
-        "text": "Lemons (4)",
-        "completed": false
-      }, {
-        "id": 5,
-        "text": "Rosemary Ham",
-        "completed": false
-      }, {
-        "id": 6,
-        "text": "Smoked Turkey",
-        "completed": false
-      }, {
-        "id": 7,
-        "text": "Cheddar slices",
-        "completed": false
-      }, {
-        "id": 8,
-        "text": "Yogurt",
-        "completed": false
-      }, {
-        "id": 9,
-        "text": "Sour Cream",
-        "completed": false
-      }, {
-        "id": 10,
-        "text": "Eggs (6pk)",
-        "completed": false
-      }, {
-        "id": 11,
-        "text": "Toaster Pastries",
-        "completed": false
-      }, {
-        "id": 12,
-        "text": "Blueberry Cereal Bars",
-        "completed": false
-      }, {
-        "id": 13,
-        "text": "Oat milk",
-        "completed": false
-      }, {
-        "id": 14,
-        "text": "Bolognese sauce",
-        "completed": false
-      }, {
-        "id": 15,
-        "text": "Capellini",
-        "completed": false
-      }, {
-        "id": 16,
-        "text": "Red Wine Vinegar",
-        "completed": false
-      }, {
-        "id": 17,
-        "text": "80/20 Ground Beef",
-        "completed": false
-      }, {
-        "id": 18,
-        "text": "Ribeye Steak",
-        "completed": false
-      }, {
-        "id": 19,
-        "text": "Spanish Style Rice",
-        "completed": false
-      }, {
-        "id": 20,
-        "text": "Fiery chicken",
-        "completed": false
-      }, {
-        "id": 21,
-        "text": "Potstickers",
-        "completed": false
-      }, {
-        "id": 22,
-        "text": "Salsa Autentica",
-        "completed": false
-      }, {
-        "id": 23,
-        "text": "Belgian waffles",
-        "completed": false
-      }, {
-        "id": 24,
-        "text": "Sourdough Bread",
-        "completed": false
-      }, {
-        "id": 25,
-        "text": "Chocolate ice cream",
-        "completed": false
-      }]
+          "id": 1,
+          "text": "Salads",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "text": "Green onions",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "text": "Bananas (3)",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "text": "Lemons (4)",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "text": "Rosemary Ham",
+          "completed": false
+        },
+        {
+          "id": 6,
+          "text": "Smoked Turkey",
+          "completed": false
+        },
+        {
+          "id": 7,
+          "text": "Cheddar slices",
+          "completed": false
+        },
+        {
+          "id": 8,
+          "text": "Yogurt",
+          "completed": false
+        },
+        {
+          "id": 9,
+          "text": "Sour Cream",
+          "completed": false
+        },
+        {
+          "id": 10,
+          "text": "Eggs (6pk)",
+          "completed": false
+        },
+        {
+          "id": 11,
+          "text": "Toaster Pastries",
+          "completed": false
+        },
+        {
+          "id": 12,
+          "text": "Blueberry Cereal Bars",
+          "completed": false
+        },
+        {
+          "id": 13,
+          "text": "Almond milk",
+          "completed": false
+        },
+        {
+          "id": 14,
+          "text": "Oat milk",
+          "completed": false
+        },
+        {
+          "id": 15,
+          "text": "Bolognese sauce",
+          "completed": false
+        },
+        {
+          "id": 16,
+          "text": "Capellini",
+          "completed": false
+        },
+        {
+          "id": 17,
+          "text": "Red Wine Vinegar",
+          "completed": false
+        },
+        {
+          "id": 18,
+          "text": "80/20 Ground Beef",
+          "completed": false
+        },
+        {
+          "id": 19,
+          "text": "Ribeye Steak",
+          "completed": false
+        },
+        {
+          "id": 20,
+          "text": "Spanish Style Rice",
+          "completed": false
+        },
+        {
+          "id": 21,
+          "text": "Fiery chicken",
+          "completed": false
+        },
+        {
+          "id": 22,
+          "text": "Potstickers",
+          "completed": false
+        },
+        {
+          "id": 23,
+          "text": "Salsa Autentica",
+          "completed": false
+        },
+        {
+          "id": 24,
+          "text": "Acai Bowls",
+          "completed": false
+        },
+        {
+          "id": 25,
+          "text": "Belgian waffles",
+          "completed": false
+        },
+        {
+          "id": 26,
+          "text": "Sourdough Bread",
+          "completed": false
+        },
+        {
+          "id": 27,
+          "text": "Chocolate ice cream",
+          "completed": false
+        }]
     },
     {
       "id": 3,
@@ -260,80 +293,109 @@
         },
         {
           "id": 5,
-          "text": "Vine Tomatoes",
+          "text": "Strawberries",
           "completed": false
         },
         {
           "id": 6,
-          "text": "Potatoes (2)",
+          "text": "Watermelon",
           "completed": false
         },
         {
           "id": 7,
-          "text": "15 Grain Bread",
+          "text": "Bananas",
           "completed": false
         },
         {
           "id": 8,
-          "text": "Cheez-It White Cheddar",
+          "text": "Vine Tomatoes",
           "completed": false
         },
         {
           "id": 9,
-          "text": "Chicken wings",
+          "text": "Potatoes (2)",
           "completed": false
         },
         {
           "id": 10,
-          "text": "LaCroix seltzer (12pk)",
+          "text": "15 Grain Bread",
           "completed": false
         },
         {
           "id": 11,
-          "text": "Fresh Pet dog food",
+          "text": "Hamburger buns",
           "completed": false
         },
         {
           "id": 12,
-          "text": "DrSquatch soap",
+          "text": "Cheez-It White Cheddar",
           "completed": false
         },
         {
           "id": 13,
-          "text": "Utz Barbecue Chips",
+          "text": "Chicken wings",
           "completed": false
         },
         {
           "id": 14,
-          "text": "FAGE 0% Yogurt",
+          "text": "Gatorade",
           "completed": false
         },
         {
           "id": 15,
-          "text": "Frozen Burritos",
+          "text": "LaCroix seltzer (12pk)",
           "completed": false
         },
         {
           "id": 16,
-          "text": "Rao's Penne Arrabbiata",
+          "text": "Fresh Pet dog food",
           "completed": false
         },
         {
           "id": 17,
-          "text": "Uncrustables (10pk)",
+          "text": "DrSquatch soap",
           "completed": false
         },
         {
           "id": 18,
-          "text": "Fat free sour cream",
+          "text": "Utz Barbecue Chips",
           "completed": false
         },
         {
           "id": 19,
+          "text": "FAGE 0% Yogurt",
+          "completed": false
+        },
+        {
+          "id": 20,
+          "text": "Frozen Burritos",
+          "completed": false
+        },
+        {
+          "id": 21,
+          "text": "Rao's Penne Arrabbiata",
+          "completed": false
+        },
+        {
+          "id": 22,
+          "text": "Uncrustables (10pk)",
+          "completed": false
+        },
+        {
+          "id": 23,
+          "text": "Fat free sour cream",
+          "completed": false
+        },
+        {
+          "id": 24,
           "text": "Cheddar shreds",
           "completed": false
-        }
-      ]
+        },
+        {
+          "id": 25,
+          "text": "Ice",
+          "completed": false
+        }]
     },
     {
       "id": 4,
@@ -341,10 +403,10 @@
       "completed": false,
       "expanded": true,
       "items": [{
-        "id": 1,
-        "text": "RID-X Septic (3pk)",
-        "completed": false
-      }]
+          "id": 1,
+          "text": "RID-X Septic (3pk)",
+          "completed": false
+        }]
     },
     {
       "id": 5,
@@ -352,10 +414,10 @@
       "completed": false,
       "expanded": false,
       "items": [{
-        "id": 1,
-        "text": "Reynolds Wrap - Non-Stick, 150sq",
-        "completed": false
-      }]
+          "id": 1,
+          "text": "Reynolds Wrap - Non-Stick, 150sq",
+          "completed": false
+        }]
     }
   ],
   "events": [{
@@ -374,14 +436,6 @@
       "day": 1719288000000,
       "id": 1708972506519,
       "originalEvent": 1708972506519
-    },
-    {
-      "title": "Michelle's birthday",
-      "description": "Forty fucking nine",
-      "label": "orange",
-      "day": 1728014400000,
-      "id": 1708972543230,
-      "originalEvent": 1708972543230
     },
     {
       "title": "Michelle's surgery",
@@ -995,22 +1049,122 @@
       "isOriginal": false,
       "originalEvent": null,
       "id": 1711378508678
-    }
-  ],
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1727841600000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": true,
+      "originalEvent": 1711421417414,
+      "id": 1711421417414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1727928000000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1711507817414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1728014400000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1711594217414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1728100800000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1711680617414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1728187200000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1711767017414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1728273600000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1711853417414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1728360000000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1711939817414
+    },
+    {
+      "title": "Tulum - birthdays",
+      "description": "",
+      "label": "green",
+      "day": 1728446400000,
+      "multiday": true,
+      "eventDays": 8,
+      "isOriginal": false,
+      "originalEvent": 1711421417414,
+      "id": 1712026217414
+    },
+    {
+      "title": "Michelle's birthday",
+      "description": "",
+      "label": "orange",
+      "day": 1728014400000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1711421437477
+    }],
   "tasks": [{
-    "id": "1",
-    "name": "Go to Harbor Freight",
-    "isEditing": false,
-    "isCompleted": false
-  }, {
-    "id": "2",
-    "name": "Go to West Elm outlet",
-    "isEditing": false,
-    "isCompleted": false
-  }, {
-    "id": "3",
-    "name": "Print Walmart return label",
-    "isEditing": false,
-    "isCompleted": false
-  }]
+      "id": "1",
+      "name": "Go to Harbor Freight",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "2",
+      "name": "Go to West Elm outlet",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "3",
+      "name": "Print Walmart return label",
+      "isEditing": false,
+      "isCompleted": false
+    }]
 }
