@@ -5,125 +5,106 @@
       "completed": false,
       "expanded": false,
       "items": [{
-          "id": 1,
-          "text": "Ziploc bags",
-          "completed": false
-        },
-        {
-          "id": 2,
-          "text": "Lysol (3pk)",
-          "completed": false
-        },
-        {
-          "id": 3,
-          "text": "Sponges",
-          "completed": false
-        },
-        {
-          "id": 4,
-          "text": "Tide Pods (F&G)",
-          "completed": false
-        },
-        {
-          "id": 5,
-          "text": "Egg Bites",
-          "completed": false
-        },
-        {
-          "id": 6,
-          "text": "Rotisserie Chicken",
-          "completed": false
-        },
-        {
-          "id": 7,
-          "text": "Bottled Water (40pk)",
-          "completed": false
-        },
-        {
-          "id": 8,
-          "text": "Blueberries",
-          "completed": false
-        },
-        {
-          "id": 9,
-          "text": "Blackberries",
-          "completed": false
-        },
-        {
-          "id": 10,
-          "text": "Strawberries",
-          "completed": false
-        },
-        {
-          "id": 11,
-          "text": "Raspberries",
-          "completed": false
-        },
-        {
-          "id": 12,
-          "text": "Paper Towels (Bounty)",
-          "completed": false
-        },
-        {
-          "id": 13,
-          "text": "Toilet Paper (Charmin)",
-          "completed": false
-        },
-        {
-          "id": 14,
-          "text": "Oat Milk (6pk)",
-          "completed": false
-        },
-        {
-          "id": 15,
-          "text": "Butter (Kerrygold)",
-          "completed": false
-        },
-        {
-          "id": 16,
-          "text": "Mayonnaise",
-          "completed": false
-        },
-        {
-          "id": 17,
-          "text": "Ketchup",
-          "completed": false
-        },
-        {
-          "id": 18,
-          "text": "Cilantro Lime Rice",
-          "completed": false
-        },
-        {
-          "id": 19,
-          "text": "Bacon crumbles",
-          "completed": false
-        },
-        {
-          "id": 20,
-          "text": "Nongshim Ramen",
-          "completed": false
-        },
-        {
-          "id": 21,
-          "text": "Aller-Fex",
-          "completed": false
-        },
-        {
-          "id": 22,
-          "text": "Aleve",
-          "completed": false
-        },
-        {
-          "id": 23,
-          "text": "Dove Bar Soap",
-          "completed": false
-        },
-        {
-          "id": 24,
-          "text": "Liquid I.V.",
-          "completed": false
-        }]
+        "id": 1,
+        "text": "Ziploc bags",
+        "completed": false
+      }, {
+        "id": 2,
+        "text": "Lysol (3pk)",
+        "completed": false
+      }, {
+        "id": 3,
+        "text": "Sponges",
+        "completed": false
+      }, {
+        "id": 4,
+        "text": "OxyClean",
+        "completed": false
+      }, {
+        "id": 5,
+        "text": "Tide Pods (F&G)",
+        "completed": false
+      }, {
+        "id": 6,
+        "text": "Egg Bites",
+        "completed": false
+      }, {
+        "id": 7,
+        "text": "Rotisserie Chicken",
+        "completed": false
+      }, {
+        "id": 8,
+        "text": "Bottled Water (40pk)",
+        "completed": false
+      }, {
+        "id": 9,
+        "text": "Blueberries",
+        "completed": false
+      }, {
+        "id": 10,
+        "text": "Blackberries",
+        "completed": false
+      }, {
+        "id": 11,
+        "text": "Strawberries",
+        "completed": false
+      }, {
+        "id": 12,
+        "text": "Raspberries",
+        "completed": false
+      }, {
+        "id": 13,
+        "text": "Paper Towels (Bounty)",
+        "completed": false
+      }, {
+        "id": 14,
+        "text": "Toilet Paper (Charmin)",
+        "completed": false
+      }, {
+        "id": 15,
+        "text": "Oat Milk (6pk)",
+        "completed": false
+      }, {
+        "id": 16,
+        "text": "Butter (Kerrygold)",
+        "completed": false
+      }, {
+        "id": 17,
+        "text": "Mayonnaise",
+        "completed": false
+      }, {
+        "id": 18,
+        "text": "Ketchup",
+        "completed": false
+      }, {
+        "id": 19,
+        "text": "Cilantro Lime Rice",
+        "completed": false
+      }, {
+        "id": 20,
+        "text": "Bacon crumbles",
+        "completed": false
+      }, {
+        "id": 21,
+        "text": "Nongshim Ramen",
+        "completed": false
+      }, {
+        "id": 22,
+        "text": "Aller-Fex",
+        "completed": false
+      }, {
+        "id": 23,
+        "text": "Aleve",
+        "completed": false
+      }, {
+        "id": 24,
+        "text": "Dove Bar Soap",
+        "completed": false
+      }, {
+        "id": 25,
+        "text": "Liquid I.V.",
+        "completed": false
+      }]
     },
     {
       "id": 2,
@@ -264,7 +245,8 @@
           "id": 27,
           "text": "Chocolate ice cream",
           "completed": false
-        }]
+        }
+      ]
     },
     {
       "id": 3,
@@ -395,7 +377,8 @@
           "id": 25,
           "text": "Ice",
           "completed": false
-        }]
+        }
+      ]
     },
     {
       "id": 4,
@@ -403,10 +386,10 @@
       "completed": false,
       "expanded": true,
       "items": [{
-          "id": 1,
-          "text": "RID-X Septic (3pk)",
-          "completed": false
-        }]
+        "id": 1,
+        "text": "RID-X Septic (3pk)",
+        "completed": false
+      }]
     },
     {
       "id": 5,
@@ -414,10 +397,10 @@
       "completed": false,
       "expanded": false,
       "items": [{
-          "id": 1,
-          "text": "Reynolds Wrap - Non-Stick, 150sq",
-          "completed": false
-        }]
+        "id": 1,
+        "text": "Reynolds Wrap - Non-Stick, 150sq",
+        "completed": false
+      }]
     }
   ],
   "events": [{
@@ -1148,7 +1131,8 @@
       "isOriginal": false,
       "originalEvent": null,
       "id": 1711421437477
-    }],
+    }
+  ],
   "tasks": [{
       "id": "1",
       "name": "Go to Harbor Freight",
@@ -1166,5 +1150,6 @@
       "name": "Print Walmart return label",
       "isEditing": false,
       "isCompleted": false
-    }]
+    }
+  ]
 }
