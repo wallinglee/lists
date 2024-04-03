@@ -18,7 +18,7 @@
         "completed": false
       }, {
         "id": 4,
-        "text": "OxyClean",
+        "text": "OxiClean",
         "completed": false
       }, {
         "id": 5,
@@ -66,42 +66,46 @@
         "completed": false
       }, {
         "id": 16,
-        "text": "Butter (Kerrygold)",
+        "text": "Chicken tenders",
         "completed": false
       }, {
         "id": 17,
-        "text": "Mayonnaise",
+        "text": "Butter (Kerrygold)",
         "completed": false
       }, {
         "id": 18,
-        "text": "Ketchup",
+        "text": "Mayonnaise",
         "completed": false
       }, {
         "id": 19,
-        "text": "Cilantro Lime Rice",
+        "text": "Ketchup",
         "completed": false
       }, {
         "id": 20,
-        "text": "Bacon crumbles",
+        "text": "Cilantro Lime Rice",
         "completed": false
       }, {
         "id": 21,
-        "text": "Nongshim Ramen",
+        "text": "Bacon crumbles",
         "completed": false
       }, {
         "id": 22,
-        "text": "Aller-Fex",
+        "text": "Nongshim Ramen",
         "completed": false
       }, {
         "id": 23,
-        "text": "Aleve",
+        "text": "Aller-Fex",
         "completed": false
       }, {
         "id": 24,
-        "text": "Dove Bar Soap",
+        "text": "Aleve",
         "completed": false
       }, {
         "id": 25,
+        "text": "Dove Bar Soap",
+        "completed": false
+      }, {
+        "id": 26,
         "text": "Liquid I.V.",
         "completed": false
       }]
