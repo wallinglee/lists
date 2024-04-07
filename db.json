@@ -407,7 +407,8 @@
       }]
     }
   ],
-  "events": [{
+  "events": [
+    {
       "title": "JPMorgan interview - 2PM",
       "description": "DSA problem solving ",
       "label": "green",
@@ -1135,25 +1136,163 @@
       "isOriginal": false,
       "originalEvent": null,
       "id": 1711421437477
+    },
+    {
+      "title": "Dr Unis - 10:45am",
+      "description": "",
+      "label": "orange",
+      "day": 1714449600000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712171031343
+    },
+    {
+      "title": "Physical Therapy - 8:30am",
+      "description": "",
+      "label": "orange",
+      "day": 1712289600000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712329098713
+    },
+    {
+      "title": "Physical Therapy - 9am",
+      "description": "",
+      "label": "orange",
+      "day": 1712548800000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712329139444
+    },
+    {
+      "title": "Physical Therapy - 1:30pm",
+      "description": "",
+      "label": "orange",
+      "day": 1712721600000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712329156894
+    },
+    {
+      "title": "Physical Therapy - 8:30am",
+      "description": "",
+      "label": "orange",
+      "day": 1712894400000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712329168720
+    },
+    {
+      "title": "MarketAxess call - 2pm",
+      "description": "",
+      "label": "red",
+      "day": 1712548800000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712341928631
+    },
+    {
+      "title": "Fence estimate - 12pm",
+      "description": "",
+      "label": "purple",
+      "day": 1712462400000,
+      "multiday": false,
+      "eventDays": 2,
+      "isOriginal": false,
+      "originalEvent": null,
+      "id": 1712494281583
     }
   ],
-  "tasks": [{
-      "id": "1",
-      "name": "Go to Harbor Freight",
+  "tasks": [
+    {
+      "id": "3cac638c498",
+      "name": "Fence",
       "isEditing": false,
       "isCompleted": false
     },
     {
-      "id": "2",
-      "name": "Go to West Elm outlet",
+      "id": "cac638c4986",
+      "name": "Entry plants",
       "isEditing": false,
       "isCompleted": false
     },
     {
-      "id": "3",
-      "name": "Print Walmart return label",
+      "id": "ac638c49867",
+      "name": "House number",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "c638c498670",
+      "name": "Howie finishes",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "638c4986706",
+      "name": "AC install",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "38c49867064",
+      "name": "Sofa",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "8c498670643",
+      "name": "Guest bedroom stuff",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "c498670643c",
+      "name": "Dining room table/seating",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "498670643c3",
+      "name": "Murphy bed/desk",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "98670643c31",
+      "name": "Deck",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "8670643c318",
+      "name": "Shed",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "670643c3186",
+      "name": "Front fence",
+      "isEditing": false,
+      "isCompleted": false
+    },
+    {
+      "id": "70643c31869",
+      "name": "Driveway",
       "isEditing": false,
       "isCompleted": false
     }
-  ]
+  ]  
 }
